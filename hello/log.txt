@@ -1,0 +1,12 @@
+17/06/2024 21:09:01 - https://httpbin.org/status/200- online: true
+17/06/2024 21:09:01 - https://www.alura.com.br- online: true
+17/06/2024 21:09:01 - https://httpbin.org/status/404- online: false
+17/06/2024 21:09:02 - https://www.youtube.com- online: true
+17/06/2024 21:09:07 - https://httpbin.org/status/200- online: true
+17/06/2024 21:09:07 - https://www.alura.com.br- online: true
+17/06/2024 21:09:07 - https://httpbin.org/status/404- online: false
+17/06/2024 21:09:07 - https://www.youtube.com- online: true
+17/06/2024 21:09:12 - https://httpbin.org/status/200- online: true
+17/06/2024 21:09:13 - https://www.alura.com.br- online: true
+17/06/2024 21:09:13 - https://httpbin.org/status/404- online: false
+17/06/2024 21:09:13 - https://www.youtube.com- online: true
